@@ -3,5 +3,7 @@ This repo is for me to learn React, ES2015, Alt and Immutable.js using Babel and
 
 To build:
 
-npm install
-webpack
+```
+> npm install
+> webpack
+```
