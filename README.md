@@ -1,5 +1,5 @@
 # alt-immutablejs-example
-A small app written in React, ES2015, Alt and Immutable.js using Babel and Webpack.
+React, ES2015, Alt, Immutable.js, Babel, Webpack.
 
 To build:
 
