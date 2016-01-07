@@ -1,5 +1,5 @@
 # alt-immutablejs-example
-This repo is for me to learn React, ES2015, Alt and Immutable.js using Babel and Webpack.
+A small app written in React, ES2015, Alt and Immutable.js using Babel and Webpack.
 
 To build:
 
